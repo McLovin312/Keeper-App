@@ -1,7 +1,11 @@
 import React from "react";
 
 function Footer(date) {
-  return <footer>Copyright © {date}</footer>;
+  return (
+    <footer>
+      <p> Copyright © {date}</p>
+    </footer>
+  );
 }
 
 const date = new Date();
