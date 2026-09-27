@@ -66,4 +66,4 @@ Right now it's pretty bare-bones, so a few things are on my list:
 
 ## Credits
 
-This started as a project from a web development course I've been working through. The layout and styling are based on the course starter files, and I wrote the add/delete note functionality.
+This started as a project from a web development course I've been working through. The layout and styling are based on the course starter files, and I wrote the note functionality.
